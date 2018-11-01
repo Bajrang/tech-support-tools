@@ -1,2 +1,2 @@
-# tech-support-tools
-Technical support tools 
+# technical support tools
+Technical support tools collection
